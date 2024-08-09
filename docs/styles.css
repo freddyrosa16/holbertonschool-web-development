@@ -45,13 +45,8 @@ header {
 }
 
 #header-div {
-    width: 1103.41px;
-    height: 29.46px;
-    top: 35.02px;
-    left: 171.59px;
-    padding: 0px;
-    gap: 0px;
-    opacity: 0px;
+    width: 1103px;
+    height: 29px;
     margin: auto;
     display: flex;
     justify-content: space-between;
